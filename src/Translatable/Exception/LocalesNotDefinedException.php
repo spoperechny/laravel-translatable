@@ -1,4 +1,4 @@
-<?php namespace Dimsav\Translatable\Exception;
+<?php namespace Spoperechny\Translatable\Exception;
 
 class LocalesNotDefinedException extends \Exception
 {
